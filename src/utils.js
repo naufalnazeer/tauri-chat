@@ -10,7 +10,7 @@ import packageJson from '../package.json';
 import tauriConfJson from '../src-tauri/tauri.conf.json';
 export { localforage };
 
-export const HEADER_TITLE = 'HEADER_TITLE goes here';
+export const HEADER_TITLE = 'CHATS';
 export const FOOTER = 'FOOTER goes here';
 export const APP_NAME = tauriConfJson.package.productName;
 export const VERSION = packageJson.version;

@@ -18,7 +18,7 @@
     "bundle": {
       "active": true,
       "targets": "all",
-      "identifier": "App.Name",
+      "identifier": "citrus-chat",
       "publisher": "Unknown Publisher",
       "copyright": "Copyright Notice",
       "icon": [
